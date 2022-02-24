@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a member of Parliament, in favour of the bill for uniting Protestants</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52792</idno>
+            <idno type="STC">Wing N43</idno>
+            <idno type="STC">ESTC R10674</idno>
+            <idno type="EEBO-CITATION">13114118</idno>
+            <idno type="OCLC">ocm 13114118</idno>
+            <idno type="VID">97726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97726)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a member of Parliament, in favour of the bill for uniting Protestants</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>[3], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Signed at end: N.N.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  England.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:97726:1"/>
+            <!-- PDF PAGE 76 -->
+            <p>Licenc'd by Command of the Right Ho<g ref="char:EOLhyphen"/>norable the Earl of SHREWSBURY.</p>
+            <closer>
+               <dateline>
+                  <date>April 1. 1689.</date>
+               </dateline>
+               <signed>JA. VERNON.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:97726:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <p>A LETTER TO A MEMBER OF Parliament, In Favour of the BILL FOR <hi>Vniting Proteſtants.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97726:2"/>
+            <!-- PDF PAGE 77 -->
+            <pb n="1" facs="tcp:97726:2"/>
+            <!-- PDF PAGE 77 -->
+            <head>A LETTER to a Member of <hi>PARLIAMENT</hi> in favour of the BILL for <hi>Uniting Proteſtants.</hi>
+            </head>
+            <p>
+               <note place="margin">Many preju<g ref="char:EOLhyphen"/>diced againſt the Bill for the name of it.</note>THE <hi>Bill</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> which being commonly ſpo<g ref="char:EOLhyphen"/>ken of under the leſs popular name of <hi>Comprehen<g ref="char:EOLhyphen"/>ſion,</hi> has ſuffer'd very much among the zealous friends of our <hi>Church,</hi> will certainly meet with a more favourable entertainment when it is more fully un<g ref="char:EOLhyphen"/>derſtood.</p>
+            <p>
+               <note place="margin">Of the de<g ref="char:EOLhyphen"/>ſign of it.</note>The <hi>Deſign</hi> of it is not, as ſome have imagined, the <hi>Breaking of our Frame,</hi> but rather the giving a <hi>greater Firmneſs</hi> to it.</p>
+            <p>
+               <note place="margin">That it is a<g ref="char:EOLhyphen"/>greeable to the Principles of the Church of <hi>England,</hi>
+               </note>No <hi>Alteration,</hi> that I know of, is intended by it, but in <hi>things</hi> declared to be <hi>Alterable</hi> by the <note n="*" place="margin">Preface to the Common Prayer.</note> 
+               <hi>Church</hi> it ſelf. And if <hi>things Alterable</hi> be <hi>alter'd</hi> upon the grounds of <hi>Prudence</hi> and <hi>Charity;</hi> and <hi>things Defective</hi> be <hi>ſupplied;</hi> and <hi>things Abuſed reſtored</hi> to their <hi>proper uſe,</hi> and things of a more <hi>Ordinary compoſition, reviſed</hi> and <hi>improved;</hi> whilſt the <hi>Doctrine, Government</hi> and <hi>Worſhip</hi> of the <hi>Church</hi> remain entire in all the <hi>ſubſtantial parts</hi> of them; we have all reaſon to believe that this will be ſo far from <hi>in<g ref="char:EOLhyphen"/>juring</hi> the <hi>Church,</hi> that on the contrary it ſhall receive a very great <hi>Benefit</hi> by it.</p>
+            <p>
+               <note place="margin">And of all other Chriſti<g ref="char:EOLhyphen"/>an Churches.</note>This has been the manner of all <hi>Chriſtian Churches</hi> in all <hi>times,</hi> not excepting the <hi>Roman Church</hi> its ſelf; which has
+<pb n="2" facs="tcp:97726:3"/>
+               <!-- PDF PAGE 78 -->changed her <hi>Offices</hi> in every Age, but generally for the worſe: And yet other <hi>Churches</hi> have not t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereby incurr'd the imputation of <hi>
+                  <g ref="char:V">Ʋ</g>nconſtancy</hi> and of <hi>unfixing</hi> things <hi>well-fixed.</hi>
+               <note place="margin">No argument of <hi>Inconſtancy</hi> in our <hi>Church.</hi>
+               </note> For that which is <hi>always to ſtand</hi> is <hi>fixed,</hi> and that which is <hi>Variable</hi> is by the diſcretion of the Church <hi>ac<g ref="char:EOLhyphen"/>commodated</hi> to <hi>Seaſons,</hi> and <hi>Places,</hi> and <hi>Occaſions.</hi>
+            </p>
+            <p>
+               <note place="margin">Some ſuch thing promi<g ref="char:EOLhyphen"/>ſed to be done by us.</note>Some <hi>Condeſcentions</hi> have been already <hi>Promiſed,</hi> and <hi>Promiſes</hi> are ſacred things. They were ſo very lately re<g ref="char:EOLhyphen"/>newed, that he muſt have a very ſhort <hi>Memory,</hi> and a worſe <hi>Conſcience,</hi> that has already forgot them. When the Bigots among the <hi>Papiſts,</hi> and thoſe who <hi>blindly</hi> at leaſt, if not <hi>wilfully</hi> went into their Intereſt raiſed a mighty Clamour againſt the <hi>Church</hi> of <hi>England</hi> as a PER<g ref="char:EOLhyphen"/>SECUTING CHURCH,<note place="margin">And neceſſa<g ref="char:EOLhyphen"/>ry to remove the Objecti<g ref="char:EOLhyphen"/>on that has been made a<g ref="char:EOLhyphen"/>gainſt us of our being a <hi>Perſecuting Church.</hi>
+               </note> the Members of it decla<g ref="char:EOLhyphen"/>red that ſo much as there was of <hi>perſecution</hi> in it, was all a <hi>Court Artifice,</hi> and gave their word for the ſhowing of <hi>ſuch a temper</hi> (when opportunity ſhould favour them) as might fully acquit them of ſuch a <hi>Spirit</hi> of which they were ſo publickly and ſo vehemently accuſed.</p>
+            <p>
+               <note place="margin">We are now better able to know what is fitting to be done in this matter then we were heretofore.</note>And after ſo long a time ſince the <hi>Reformation;</hi> and ſo many Revolutions, and ſo many Objections heard and Conſider'd, a <hi>review</hi> of our <hi>Conſtitution</hi> (if we had not paſs'd any <hi>Promiſe</hi>) may ſeem fit to be made, and now to be capable of being made much better, than it could have been formerly.</p>
+            <p>
+               <note place="margin">That it is the only way to remove the <hi>Diſſenters ſcruples.</hi>
+               </note>It is true indeed for any <hi>Objections</hi> that can be made againſt our <hi>Conſtitution</hi> as now it is, we need not enter on any <hi>alteration</hi> of it. All that have ever yet been brought having been often and fully <hi>Anſwered</hi> with great ſtrength and plaineſs. But it is our unhappineſs (or rather theirs) that they who have moſt need of Books of this kind, ei<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:97726:3"/>
+               <!-- PDF PAGE 78 -->will not, or are not ſuffer'd to read them. Or if they chance to read, yet they come with ſuch <hi>prejudice</hi> to them, as prevents a diligent and impartial peruſal of them. The ſureſt way therefore to remove all <hi>ob<g ref="char:EOLhyphen"/>jections</hi> of this kind is to remove the occaſion of them, and that will be done by this <hi>Bill</hi> of diſcreet Charity.</p>
+            <p>
+               <note place="margin">That this <hi>Bill</hi> will be no prejudice to <hi>Eccleſiaſtical Power.</hi>
+               </note>I am well aware of your highly commendable tender<g ref="char:EOLhyphen"/>neſs to <hi>Eccleſiaſtical Power,</hi> and this <hi>review</hi> is not deſigned to be made without the <hi>Sanction</hi> of it, expreſly mention<g ref="char:EOLhyphen"/>ed in the <hi>laſt words</hi> of the <hi>Bill.</hi> The preſent <hi>Bill</hi> is but a <hi>Preparatory Act,</hi> and may as well be paſs'd in <hi>Parliament</hi> as <hi>Queen Elizabeths Injunctions</hi> without offence to the <hi>Clergy.</hi>
+            </p>
+            <p>
+               <note place="margin">Nor take a<g ref="char:EOLhyphen"/>way the <hi>Fen<g ref="char:EOLhyphen"/>ces</hi> of our Church.</note>Neither need you dread this <hi>Bill</hi> as a means to the throwing down the <hi>Fences</hi> of our <hi>Church. Fences</hi> which are always attacked, and which put us perpetually upon the defenſive part, have more of <hi>Trouble</hi> in them than ſe<g ref="char:EOLhyphen"/>curity. And certainly after the <hi>Eſſentials</hi> and convenient <hi>decencies</hi> of <hi>Religion</hi> are provided for, our ſtrongeſt <hi>fen<g ref="char:EOLhyphen"/>ces</hi> under God are <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Number.</hi>
+            </p>
+            <p>
+               <note place="margin">Nor lead the way to the yielding up <hi>All</hi> to the <hi>Diſ<g ref="char:EOLhyphen"/>ſenters.</hi>
+               </note>I cannot ſo far ſuſpect your <hi>judgment</hi> as to think you will ſay, that if the <hi>leaſt thing</hi> be yielded to <hi>Diſſenters,</hi> they will by <hi>degrees</hi> extort the whole from us by their <hi>reſtleſs importunities.</hi> What we yield, we yield not ſo much to <hi>them,</hi> as to the <hi>Peace</hi> of the <hi>Church.</hi> And the wiſdom of thoſe great <hi>Bodies</hi> a <hi>Parliament</hi> and <hi>Convocati<g ref="char:EOLhyphen"/>on</hi> will know where it ought to ſtop. And when once that which is fit is Granted, if Men who affect to be a State party ſhall inſiſt on all that remains, the meer un<g ref="char:EOLhyphen"/>reaſonableneſs of their demands will procure a denial, and will juſtifie it to all the World.</p>
+            <p>
+               <pb n="4" facs="tcp:97726:4"/>
+               <!-- PDF PAGE 79 -->
+               <note place="margin">Nor will it be any diſcre<g ref="char:EOLhyphen"/>dit to us if the <hi>diſſenters</hi> ſhould ſome of them re<g ref="char:EOLhyphen"/>fuſe to acqui<g ref="char:EOLhyphen"/>eſce in it;</note>Nor can I any more think that a Perſon of your good ſenſe ſhould harbour a ſuſpicion, that the <hi>Authority</hi> of this <hi>Church</hi> will be made cheap, and ſeem to be proſtituted by an <hi>Offer</hi> of a <hi>Condeſcenſion,</hi> of which it may be the <hi>Diſſenters</hi> will not accept. It is the grief of all good Men of our Communion, that any of the <hi>Diſſenters</hi> ſhould be guilty of ſo much as the leaſt Appearance of obſtructing this <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> which they formerly ſeemed ſo im<g ref="char:EOLhyphen"/>patiently to deſire. And I do own that in ſome of them there is more than an Appearance of <hi>Averſion</hi> to this <hi>Bill.</hi>
+               <note place="margin">As it may be they will.</note> If it were not ſo, after an univerſal forbearance of <hi>Preach<g ref="char:EOLhyphen"/>ing</hi> or <hi>Writing</hi> in thoſe <hi>Controverſies</hi> on our ſide, Books levell'd both againſt <hi>Liturgy</hi> and <hi>Epiſcopacy</hi> would not come as they do, in this juncture, freſh from the Preſs.</p>
+            <p>
+               <note place="margin">But on the contrary, ſuch an <hi>Union</hi> being offerd by us will render them inexcuſ<g ref="char:EOLhyphen"/>able.</note>However, let that be offer'd by the <hi>Church-men</hi> which may be agreed with ſafety to the <hi>Church,</hi> and which has been ſo <hi>ſolemnly promiſed</hi> by them, and they will at once both <hi>juſtifie</hi> themſelves and render thoſe Men <hi>inexcuſable,</hi> who <hi>advance</hi> towards us when we are <hi>Bound</hi> and <hi>cannot meet them;</hi> and when we <hi>can,</hi> and <hi>come forward,</hi> run back to their old extremities of Averſation.</p>
+            <p>
+               <note place="margin">And tho the intereſted Men among the <hi>Diſſenters</hi> may diſlike it,</note>It is indeed to be feared, that thoſe who cover <hi>Intereſt</hi> under the pretence of <hi>Conſcience,</hi> and perhaps among thoſe ſome few that are <hi>Paſtors</hi> of Wealthy <hi>Congregations,</hi> may be tempted to deſire a continuance of the diſtance betwixt the <hi>Diſſenters</hi> and the <hi>Church-men.</hi> It would be Policy in them to endeavour that the <hi>Exceptions</hi> may remain as means of continuing the <hi>Separation,</hi> ſeeing by that they gain more than they had reaſon to expect if they were ſet in the common level, in the <hi>parochial charges</hi> of a <hi>National Church.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:97726:4"/>
+               <!-- PDF PAGE 79 -->
+               <note place="margin">Yet we may Reaſonably Hope, all o<g ref="char:EOLhyphen"/>thers will ap<g ref="char:EOLhyphen"/>prove it.</note>But I have more charitable thoughts of the <hi>ſincere Diſ<g ref="char:EOLhyphen"/>ſenters;</hi> and the rather, becauſe this preſent <hi>Bill</hi> is ſo fra<g ref="char:EOLhyphen"/>med, that it may give them all <hi>reaſonable ſatisfaction.</hi>
+            </p>
+            <p>
+               <note place="margin">The conditi<g ref="char:EOLhyphen"/>ons of this <hi>Bill</hi> being very <hi>eaſie</hi> both to the <hi>Miniſters</hi>
+               </note>For, Firſt: As to thoſe <hi>Diſſenters</hi> who are in the <hi>Mi<g ref="char:EOLhyphen"/>niſtry,</hi> their ſpecial <hi>Objections</hi> have been againſt the <hi>Forms</hi> of <hi>Subſcription</hi> and <hi>Ordination.</hi> But now there is only <hi>one Form</hi> to <hi>ſubſcribe;</hi> and that is ſo adjuſted, that as many of them as are <hi>Epiſcopally Ordain'd</hi> may come into <hi>Parochial Cures,</hi> without <hi>ſcruple</hi> at that which is now re<g ref="char:EOLhyphen"/>quired. For them that have not <hi>Epiſcopal Orders,</hi> there will be ſuch a <hi>proviſion</hi> made, as will ſatisfie all the <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> of the <hi>Foreign Proteſtant Churches;</hi> and there is all reaſon to hope, that it will ſatisfie our <hi>Diſſenters.</hi> And then when they are within the Church, they will have no Temptation to make ſuch <hi>Ordinations</hi> as they are ſaid to have done of <hi>late years,</hi> tho even thoſe they have made are not capable of the <hi>Excuſe</hi> that was made for thoſe in the <hi>Ill Times;</hi> when <hi>Biſhops</hi> were few, and thoſe impri<g ref="char:EOLhyphen"/>ſoned, and otherwiſe diſcountenanced by the <hi>Powers</hi> in being.</p>
+            <p>
+               <note place="margin">And to the <hi>lay-diſſenters.</hi>
+               </note>And then for the <hi>Diſſenters</hi> among the <hi>Laity;</hi> things that are <hi>indifferent</hi> in their <hi>own Nature,</hi> being left <hi>indiffe<g ref="char:EOLhyphen"/>rent</hi> in their <hi>
+                  <g ref="char:V">Ʋ</g>ſe,</hi> the grand <hi>Objection</hi> of their being made <hi>unlawful</hi> by their <hi>impoſition,</hi> will be perfectly removed. So that be they henceforth <hi>uſed</hi> or not <hi>uſed,</hi> they can be no <hi>Bar</hi> to <hi>Lay-Communion.</hi>
+            </p>
+            <p>
+               <note place="margin">This <hi>Bill</hi> if it has no preſent good effect, yet will ſecure the <hi>next Ge<g ref="char:EOLhyphen"/>neration.</hi>
+               </note>For theſe reaſons we cannot but hope that we ſhall have ſome fruit of this <hi>Bill</hi> among the <hi>ſincere Diſſenters</hi> at preſent: But this to be ſure, we ſhall by this means <hi>ſe<g ref="char:EOLhyphen"/>cure</hi> the <hi>next Generation,</hi> who cannot have thoſe <hi>Prejudices</hi>
+               <pb n="6" facs="tcp:97726:5"/>
+               <!-- PDF PAGE 80 -->inſtill'd into them, which now by a <hi>publick Law</hi> will be taken away. And for the <hi>French,</hi> and <hi>German,</hi> and other <hi>Foreign Chriſtians</hi> of the <hi>reformed Religion,</hi>
+               <note place="margin">And ſatisfie the <hi>Proteſtant Churches</hi> a<g ref="char:EOLhyphen"/>broad.</note> I am well aſ<g ref="char:EOLhyphen"/>ſured both by <hi>Converſation,</hi> and by <hi>Letters</hi> lately ſent from <hi>Holland, Geneva, Switzerland,</hi> and other places; (not to ſpeak of the <hi>Churches</hi> of the <hi>Lutheran Communion</hi> which write the ſame;) that they look upon the <hi>Church of England</hi> at this Time as the <hi>Centre</hi> of <hi>Proteſtant <g ref="char:V">Ʋ</g>nity;</hi> and eſteem the <hi>Conditions</hi> propoſed in this Bill (which have been <hi>Communicated</hi> to them) as <hi>Terms</hi> full of <hi>Chri<g ref="char:EOLhyphen"/>ſtian Moderation,</hi>
+               <note place="margin">To whom it has been com<g ref="char:EOLhyphen"/>municated, and who do highly ap<g ref="char:EOLhyphen"/>prove the con<g ref="char:EOLhyphen"/>ditions of it.</note> and <hi>fit</hi> for the <hi>
+                  <g ref="char:V">Ʋ</g>niting</hi> of <hi>Proteſtants.</hi> And you are not to be taught how neceſſary a <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> is, (eſpecially in this State of affairs) not at <hi>Home only,</hi> but <hi>among all the Proteſtants in the World.</hi>
+            </p>
+            <p>
+               <note place="margin">This <hi>Bill</hi> ap<g ref="char:EOLhyphen"/>proved by the <hi>trueſt Sons</hi> of the <hi>Church</hi> of <hi>England.</hi>
+               </note>It will perhaps be ſome further ſatisfaction to you to let you know, that I am not ſingular in all this that I have with ſo much freedom written to you. Among all thoſe who have <hi>appear'd</hi> in the <hi>Churches Cauſe,</hi> as well againſt <hi>Diſſenters</hi> as <hi>Papiſts,</hi> I do not know one ſingle perſon that is not a <hi>Well-wiſher</hi> to this Bill; and I believe they will all tell you ſo, if you pleaſe to adviſe with them. And ſo far as we may learn the <hi>Genius</hi> of Men from their Wri<g ref="char:EOLhyphen"/>tings, Arch-biſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> Biſhop <hi>Sanderſon,</hi> Dr. <hi>Ham<g ref="char:EOLhyphen"/>mond,</hi> and a long order of other moſt worthy Men of the <hi>laſt Age,</hi> whoſe <hi>Memory</hi> is moſt precious in our Church, had they been now alive, would with all Zeal have pro<g ref="char:EOLhyphen"/>moted this <hi>Bill</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>nion.</hi>
+            </p>
+            <p>
+               <note place="margin">And would be fit to be paſs'd, tho' it were not ne<g ref="char:EOLhyphen"/>ceſſary for an <hi>Union.</hi>
+               </note>And upon ſuppoſition that there were not in this Nati<g ref="char:EOLhyphen"/>on one ſingle <hi>Diſſenter,</hi> that there were no occaſion for either <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> or <hi>Comprehenſion,</hi> it would ſtill be the <hi>Churches Intereſt</hi> to propoſe ſomething of like Nature with that which is now under Conſideration, and ripe for its
+<pb n="7" facs="tcp:97726:5"/>
+               <!-- PDF PAGE 80 -->Birth, and which I hope will not want a legal Strength for the bringing of it forth.</p>
+            <p>
+               <note place="margin">We may <hi>im<g ref="char:EOLhyphen"/>prove</hi> our <hi>Conſtitution,</hi>
+               </note>For I pray, is any <hi>Church</hi> ſo perfect, as to lack nothing at all? Would it be a prejudice to our <hi>Communion</hi> to make <hi>Confirmation</hi> and <hi>Excommunication</hi> much more <hi>ſo<g ref="char:EOLhyphen"/>lemn?</hi> Would our Service be impaired by Additional <hi>Prayers</hi> and <hi>Hymns,</hi> and <hi>choice Leſſons,</hi> and an improved <hi>Office</hi> for the <hi>ſick;</hi> and by ſome <hi>new Offices</hi> for <hi>Priſoners</hi> of <hi>Debt</hi> and <hi>Crime,</hi> for the <hi>reconciling of Penitents,</hi> &amp;c. together with divers other things which are obvious to Conſidering Perſons?</p>
+            <p>
+               <note place="margin">Tho it be <hi>al<g ref="char:EOLhyphen"/>ready very good.</hi>
+               </note>God be bleſſed we are not <hi>defective</hi> in things <hi>abſolutely neceſſary to Salvation:</hi> nor <hi>redundant</hi> in any <hi>ſuperſtitions,</hi> or in any <hi>ſinful Terms</hi> of <hi>Church Communion.</hi> But when we may grow up into conſiderable improvements, and provide for <hi>Peace</hi> and <hi>Piety</hi> together, if we ſhall ſo tye our ſelves down to our <hi>preſent State</hi> as to refuſe to do it, we ſhall certainly anſwer it to the great <hi>Shepherd,</hi> who requires us not only to <hi>do Well,</hi> but to <hi>proceed</hi> in <hi>Well<g ref="char:EOLhyphen"/>doing,</hi> and to <hi>abound in every good Work.</hi>
+            </p>
+            <p>
+               <note place="margin">None but the <hi>Papiſts</hi> who have hitherto <hi>prevented</hi> our <hi>Union,</hi> ought to be diſplea<g ref="char:EOLhyphen"/>ſed at our pre<g ref="char:EOLhyphen"/>ſent endea<g ref="char:EOLhyphen"/>vour after it.</note>To conclude, We have loſt one <hi>juncture</hi> already at the return of King CHARLES the <hi>Second:</hi> And the <hi>Popiſh party</hi> who help'd us forward in our Heats, as well as held back the <hi>Diſſenter,</hi> have ſince that time ſufficiently ſhewn why they did it, by making their <hi>Advantages</hi> all along by our <hi>Diſcords.</hi>
+            </p>
+            <p>We have now <hi>another favourable Seaſon;</hi> and that ſuch as was never yet offer'd to us, by reaſon of the League at this time between the <hi>Proteſtant Princes</hi> and <hi>States.</hi> In this <hi>Bill</hi> we ſhall go as far as they deſire us to go. So that there can be no need of any conſiderable <hi>alteration</hi> to be made for the future.</p>
+            <p>
+               <pb n="8" facs="tcp:97726:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 81 -->
+Let us not a <hi>ſecond Time</hi> ſuffer our ſelves to be ſo far miſtaken in our own <hi>Intereſt,</hi> as to neglect that which will ſo much make for our Peace: Which is what all true friends to the <hi>Reform'd Religion</hi> muſt needs deſire; and I know none but the <hi>Common Enemy,</hi> that can reaſonably be diſpleaſed at our Endeavours for the promoting of it. I am</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your very humble Servant N. N.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
